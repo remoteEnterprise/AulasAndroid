@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/barbosa/Documentos/PROGRAMAS ANDROID/Aula03/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/barbosa/Documentos/PROGRAMAS ANDROID/Aula03/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_daf3169a8542548ac4786039a6df0c499d265d1b/classes.dex" />
+    </item>
+    <item
+        jar="/home/barbosa/Documentos/PROGRAMAS ANDROID/Aula03/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/barbosa/Documentos/PROGRAMAS ANDROID/Aula03/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_0724f5a034c550eba4f8a2974ba1758a386d6135/classes.dex" />
+    </item>
+    <item
+        jar="/home/barbosa/Documentos/PROGRAMAS ANDROID/Aula03/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/home/barbosa/Documentos/PROGRAMAS ANDROID/Aula03/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_9ab06360d0ca25919582547f67bdade0dcdfd06b/classes.dex" />
+    </item>
+    <item
+        jar="/home/barbosa/Documentos/PROGRAMAS ANDROID/Aula03/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a29e2364dc67f4549e12f27257bab0df384eddd5">
+        <dex dex="/home/barbosa/Documentos/PROGRAMAS ANDROID/Aula03/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ab0ac962fb6717fb17666c1819e6a792189b1558/classes.dex" />
+    </item>
+    <item
+        jar="/home/barbosa/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.1/3af19f153122737b372622fa6c81dd11a1c6b999/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/barbosa/Documentos/PROGRAMAS ANDROID/Aula03/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_ccd06dff1b37277583a0f58e3c98841d10065f1e/classes.dex" />
+    </item>
+    <item
+        jar="/home/barbosa/Documentos/PROGRAMAS ANDROID/Aula03/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9e63c6469898c462f90cbdb49d380ad6f69f42f7">
+        <dex dex="/home/barbosa/Documentos/PROGRAMAS ANDROID/Aula03/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_989e324be8d4bf8f4202ed5b8714cd89efaad078/classes.dex" />
+    </item>
+    <item
+        jar="/home/barbosa/Documentos/PROGRAMAS ANDROID/Aula03/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/home/barbosa/Documentos/PROGRAMAS ANDROID/Aula03/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_50aa778bcbe3d901055944adedd0bc09a3303e27/classes.dex" />
+    </item>
+    <item
+        jar="/home/barbosa/Documentos/PROGRAMAS ANDROID/Aula03/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/home/barbosa/Documentos/PROGRAMAS ANDROID/Aula03/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_1cacaf79680e99a98025107bcdd4f3a8a87b56f8/classes.dex" />
+    </item>
+
+</items>

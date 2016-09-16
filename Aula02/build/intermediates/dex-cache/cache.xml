@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/barbosa/Documentos/PROGRAMAS ANDROID/Aula02/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/home/barbosa/Documentos/PROGRAMAS ANDROID/Aula02/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_bcc94d2352d94e0fe3f5b96bb6b7f9e81a105165/classes.dex" />
+    </item>
+    <item
+        jar="/home/barbosa/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.1/3af19f153122737b372622fa6c81dd11a1c6b999/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/barbosa/Documentos/PROGRAMAS ANDROID/Aula02/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_ccd06dff1b37277583a0f58e3c98841d10065f1e/classes.dex" />
+    </item>
+    <item
+        jar="/home/barbosa/Documentos/PROGRAMAS ANDROID/Aula02/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/home/barbosa/Documentos/PROGRAMAS ANDROID/Aula02/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_5f9830d933a2d754b67adca399573a0f799474eb/classes.dex" />
+    </item>
+    <item
+        jar="/home/barbosa/Documentos/PROGRAMAS ANDROID/Aula02/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/home/barbosa/Documentos/PROGRAMAS ANDROID/Aula02/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_5b38c3b16cf229896fed1315331293373e8d4bb5/classes.dex" />
+    </item>
+    <item
+        jar="/home/barbosa/Documentos/PROGRAMAS ANDROID/Aula02/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="560e9030c7a625eab65b5379e27e7753e04e526f">
+        <dex dex="/home/barbosa/Documentos/PROGRAMAS ANDROID/Aula02/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_21bc8e6450e3a9069007dd5c31f7a7c00096be49/classes.dex" />
+    </item>
+    <item
+        jar="/home/barbosa/Documentos/PROGRAMAS ANDROID/Aula02/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/barbosa/Documentos/PROGRAMAS ANDROID/Aula02/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_cce7605c9ad72291ee359d019b30efe875a35b0a/classes.dex" />
+    </item>
+    <item
+        jar="/home/barbosa/Documentos/PROGRAMAS ANDROID/Aula02/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/barbosa/Documentos/PROGRAMAS ANDROID/Aula02/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_84defff621edce971ec7427b7f5a452d29c5ad5b/classes.dex" />
+    </item>
+    <item
+        jar="/home/barbosa/Documentos/PROGRAMAS ANDROID/Aula02/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a389d9714e3fce2b3fb8c15ddaa2e7d7800c110a">
+        <dex dex="/home/barbosa/Documentos/PROGRAMAS ANDROID/Aula02/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3d8ea9b756a8e5f030c4640e1ef3b5912a9fc8b3/classes.dex" />
+    </item>
+
+</items>

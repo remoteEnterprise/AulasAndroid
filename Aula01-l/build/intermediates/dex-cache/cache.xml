@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Documentos\PROGRAMAS ANDROID\Aula01\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec59a7c4627f0d46689ceaea1d1fc2c2fc72cbb4">
+        <dex dex="E:\Documentos\PROGRAMAS ANDROID\Aula01\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_00d19089e93963ba33bd9e4e9f77344236582b9e\classes.dex" />
+    </item>
+    <item
+        jar="E:\Documentos\PROGRAMAS ANDROID\Aula01\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\Documentos\PROGRAMAS ANDROID\Aula01\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_f1a344f6ca09d247788d3979f578f9a9b2171005\classes.dex" />
+    </item>
+    <item
+        jar="E:\Documentos\PROGRAMAS ANDROID\Aula01\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="02127aa5add0701d73ed6d47fa3ef80daaf8db00">
+        <dex dex="E:\Documentos\PROGRAMAS ANDROID\Aula01\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5e6d86a01c403d6f979f1f4cebaa437bafe913ae\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\BARBOSA\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\Documentos\PROGRAMAS ANDROID\Aula01\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_80813af8821e5da9132d3b34bd0e58f5de7c3949\classes.dex" />
+    </item>
+    <item
+        jar="E:\Documentos\PROGRAMAS ANDROID\Aula01\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\Documentos\PROGRAMAS ANDROID\Aula01\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_a8ab1db883a6609332735eebd863f9a9731431cc\classes.dex" />
+    </item>
+    <item
+        jar="E:\Documentos\PROGRAMAS ANDROID\Aula01\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\Documentos\PROGRAMAS ANDROID\Aula01\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_07b5891b18ea212e2fe8f4954a810fe97401fc97\classes.dex" />
+    </item>
+    <item
+        jar="E:\Documentos\PROGRAMAS ANDROID\Aula01\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\Documentos\PROGRAMAS ANDROID\Aula01\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_c829a54a4f39547a80e6ab20ef46bbb58376753f\classes.dex" />
+    </item>
+    <item
+        jar="E:\Documentos\PROGRAMAS ANDROID\Aula01\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\Documentos\PROGRAMAS ANDROID\Aula01\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_eb17b29ad2319efa95eebc0903d203e8ed92a7dc\classes.dex" />
+    </item>
+
+</items>
